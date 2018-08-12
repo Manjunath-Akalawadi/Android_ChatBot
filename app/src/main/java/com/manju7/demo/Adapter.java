@@ -1,4 +1,4 @@
-package com.manju7.chatbot;
+package com.manju7.demo;
 
 import android.content.Context;
 import android.view.LayoutInflater;
