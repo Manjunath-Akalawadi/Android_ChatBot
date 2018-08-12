@@ -1,4 +1,4 @@
-package com.manju7.chatbot;
+package com.manju7.demo;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedReader;
